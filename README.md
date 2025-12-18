@@ -6,7 +6,7 @@
   </strong>
 </p>
 
-https://github.com/cgtuebingen/FrameDiffuser/assets/XXXXX/XXXXX
+https://github.com/user-attachments/assets/b43532e0-5f5d-40f3-9d3c-e49814faa77f
 
 ### [Project Page](https://framediffuser.jdihlmann.com/) | [Paper](https://arxiv.org/abs/XXXX.XXXXX)
 
@@ -18,7 +18,6 @@ University of Tübingen
 
 **FrameDiffuser** is an autoregressive neural rendering framework that generates temporally consistent, photorealistic frames from G-buffer data. Our approach enables frame-by-frame generation for interactive applications where future frames depend on user input.
 
-![Teaser](images/pipeline.png)
 
 ## Features
 
@@ -34,11 +33,11 @@ Coming soon.
 ## Citation
 
 ```bibtex
-@inproceeding{framediffuser,
-  author = {Beißwenger, Ole and Dihlmann, Jan-Niklas and Lensch, Hendrik P.A.},
-  title = {FrameDiffuser: G-Buffer-Conditioned Diffusion for Neural Forward Frame Rendering},
-  booktitle = {arXiv preprint},
-  year = {2025}
+@article{beisswenger2024framediffuser,
+  title={FrameDiffuser: G-Buffer-Conditioned Diffusion for Neural Forward Frame Rendering},
+  author={Beisswenger, Ole and Dihlmann, Jan-Niklas and Lensch, Hendrik},
+  journal={...},
+  year={2024}
 }
 ```
 

@@ -30,6 +30,8 @@ University of Tübingen
 
 Coming soon.
 
+Additional materials and supplemental videos can be found [here](https://drive.google.com/file/d/1yZuiW7DOZzHFDuZnKV_SU_Ofoq2wuoBG/view?usp=drive_link).
+
 ## Citation
 
 ```bibtex

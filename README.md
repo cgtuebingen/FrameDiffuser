@@ -8,6 +8,13 @@
 
 https://github.com/user-attachments/assets/b43532e0-5f5d-40f3-9d3c-e49814faa77f
 
+<p align="center">
+    <span> 🌐  <a href="https://framediffuser.jdihlmann.com/"> Project Page </a> </span>&nbsp;&nbsp;&nbsp;
+    <span> 📄  <a href="https://arxiv.org/abs/2512.16670"> Paper (Arxiv) </a> </span>&nbsp;&nbsp;&nbsp;
+  <span>  📦  <a href="https://drive.google.com/file/d/1yZuiW7DOZzHFDuZnKV_SU_Ofoq2wuoBG/view?usp=sharing"> Materials </a> </span>&nbsp;&nbsp;&nbsp;
+  <span>  ✍🏻
+     <a href="https://github.com/cgtuebingen/FrameDiffuser?tab=readme-ov-file#citation"> Citation </a> </span>&nbsp;&nbsp;&nbsp;
+</p>
 ### [Project Page](https://framediffuser.jdihlmann.com/) | [Paper](https://arxiv.org/abs/XXXX.XXXXX)
 
 [Ole Beißwenger](https://github.com/obeisswenger), [Jan-Niklas Dihlmann](https://jdihlmann.com/), [Hendrik P.A. Lensch](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/computergrafik/lehrstuhl/mitarbeiter/prof-dr-ing-hendrik-lensch/)

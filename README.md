@@ -15,7 +15,6 @@ https://github.com/user-attachments/assets/b43532e0-5f5d-40f3-9d3c-e49814faa77f
   <span>  ✍🏻
      <a href="https://github.com/cgtuebingen/FrameDiffuser?tab=readme-ov-file#citation"> Citation </a> </span>&nbsp;&nbsp;&nbsp;
 </p>
-### [Project Page](https://framediffuser.jdihlmann.com/) | [Paper](https://arxiv.org/abs/XXXX.XXXXX)
 
 ---
 

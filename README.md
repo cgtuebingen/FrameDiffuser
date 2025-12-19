@@ -28,11 +28,9 @@ https://github.com/user-attachments/assets/b43532e0-5f5d-40f3-9d3c-e49814faa77f
 - **Automatic Lighting** — Synthesizes global illumination, shadows, and reflections from G-buffer
 - **Environment-Specific** — Specialized models for superior quality
 
+
 ## Code
-
-Coming soon.
-
-Additional materials and supplemental videos can be found [here](https://drive.google.com/file/d/1yZuiW7DOZzHFDuZnKV_SU_Ofoq2wuoBG/view?usp=drive_link).
+Paper is currently under review, we will realse the code shortly (~ end of january 2026) in a cleaned version. Up until then if you have any questions regarding the project or need material to compare against fast, feel free to contact us.
 
 ## Citation
 
@@ -44,10 +42,6 @@ Additional materials and supplemental videos can be found [here](https://drive.g
   year={2024}
 }
 ```
-
-## License
-
-This code is released under the **Adobe Research License** for **noncommercial research purposes only**.
 
 ## Acknowledgments
 

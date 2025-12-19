@@ -17,10 +17,6 @@ https://github.com/user-attachments/assets/b43532e0-5f5d-40f3-9d3c-e49814faa77f
 </p>
 ### [Project Page](https://framediffuser.jdihlmann.com/) | [Paper](https://arxiv.org/abs/XXXX.XXXXX)
 
-[Ole Beißwenger](https://github.com/obeisswenger), [Jan-Niklas Dihlmann](https://jdihlmann.com/), [Hendrik P.A. Lensch](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/computergrafik/lehrstuhl/mitarbeiter/prof-dr-ing-hendrik-lensch/)
-
-University of Tübingen
-
 ---
 
 **FrameDiffuser** is an autoregressive neural rendering framework that generates temporally consistent, photorealistic frames from G-buffer data. Our approach enables frame-by-frame generation for interactive applications where future frames depend on user input.

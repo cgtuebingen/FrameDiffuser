@@ -1,0 +1,68 @@
+{
+  "DowntownWest": {
+    "gbuffer_dir": "./data/DowntownWest",
+    "original_frames": "./data/DowntownWest/FinalImage",
+    "gbuffer_prefix": "",
+    "controlnet_path": "./Models/DowntownWest/controlnet",
+    "controllora_path": "./Models/DowntownWest/pytorch_lora_weights.safetensors",
+    "output_dir": "./output/DowntownWest",
+    "prompt": "A mid-western downtown shopping street on a sunny day, colorful storefronts, urban architecture",
+    "negative_prompt": "lowres, blurry, worst quality",
+    "enable_injection": true
+  },
+  "CitySample": {
+    "gbuffer_dir": "./data/CitySample",
+    "original_frames": "./data/CitySample/FinalImage",
+    "gbuffer_prefix": "",
+    "controlnet_path": "./Models/CitySample/controlnet",
+    "controllora_path": "./Models/CitySample/pytorch_lora_weights.safetensors",
+    "output_dir": "./output/CitySample",
+    "prompt": "A photorealistic metropolitan city with skyscrapers and streets under overcast grey skies",
+    "negative_prompt": "lowres, blurry, worst quality",
+    "enable_injection": true
+  },
+  "Hillside": {
+    "gbuffer_dir": "./data/Hillside",
+    "original_frames": "./data/Hillside/FinalImage",
+    "gbuffer_prefix": "",
+    "controlnet_path": "./Models/Hillside/controlnet",
+    "controllora_path": "./Models/Hillside/controllora.safetensors",
+    "output_dir": "./output/Hillside",
+    "prompt": "Interior of a modern apartment at night, bright ambient lighting from lamps, contemporary furniture, warm atmosphere",
+    "negative_prompt": "lowres, blurry, worst quality",
+    "enable_injection": true
+  },
+  "CityPark": {
+    "gbuffer_dir": "./data/CityPark",
+    "original_frames": "./data/CityPark/FinalImage",
+    "gbuffer_prefix": "",
+    "controlnet_path": "./Models/CityPark/controlnet",
+    "controllora_path": "./Models/CityPark/pytorch_lora_weights.safetensors",
+    "output_dir": "./output/CityPark",
+    "prompt": "A photorealistic urban park on a sunny day",
+    "negative_prompt": "lowres, blurry, worst quality",
+    "enable_injection": true
+  },
+  "ElectricDreams": {
+    "gbuffer_dir": "./data/ElectricDreams",
+    "original_frames": "./data/ElectricDreams/FinalImage",
+    "gbuffer_prefix": "",
+    "controlnet_path": "./Models/ElectricDreams/controlnet",
+    "controllora_path": "./Models/ElectricDreams/pytorch_lora_weights.safetensors",
+    "output_dir": "./output/ElectricDreams",
+    "prompt": "A photorealistic lush rainforest on a sunny day",
+    "negative_prompt": "lowres, blurry, worst quality",
+    "enable_injection": true
+  },
+  "DerelictCorridor": {
+    "gbuffer_dir": "./data/DerelictCorridor",
+    "original_frames": "./data/DerelictCorridor/FinalImage",
+    "gbuffer_prefix": "",
+    "controlnet_path": "./Models/DerelictCorridor/controlnet",
+    "controllora_path": "./Models/DerelictCorridor/pytorch_lora_weights.safetensors",
+    "output_dir": "./output/DerelictCorridor",
+    "prompt": "A photorealistic derelict corridor, industrial abandoned interior",
+    "negative_prompt": "lowres, blurry, worst quality",
+    "enable_injection": true
+  }
+}
